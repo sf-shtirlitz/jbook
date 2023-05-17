@@ -1,6 +1,7 @@
 import { useRef, useEffect } from 'react';
 import "./resizable.css";
 import "./preview.css";
+import "./code-cell.css";
 
 interface PreviewProps {
   code: string;
